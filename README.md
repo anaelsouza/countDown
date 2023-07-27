@@ -1,6 +1,6 @@
 # countDown
 
-Práticando um pouco mais de JS, nesse "projeto", foi realizado uma página em CountDown, resumindo um site de contagem regressiva, com dias, segunda, minutos e segundos.
-Repositório Git e Deploy Netlify.
+Practicing a little more JS, in this "project", a page was created in CountDown, summarizing a countdown website, with days, seconds, minutes and seconds.
+Git repository and Deploy Netlify.
 
-Link do countDown: https://countdown-dnc1.netlify.app/
+CountDown link: https://countdown-dnc1.netlify.app/
